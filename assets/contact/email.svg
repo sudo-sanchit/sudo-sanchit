@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="28" viewBox="0 0 360 28" role="img" aria-label="EMAIL: YOUR EMAIL">
+<title>EMAIL: YOUR EMAIL</title>
+<rect width="140" height="28" fill="#000"/>
+<rect x="140" width="220" height="28" fill="#00ff41"/>
+<g transform="translate(14 7) scale(0.58)"><path fill="#00ff41" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></g>
+<g font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="11" font-weight="700" letter-spacing="1" dominant-baseline="central">
+<text x="38" y="14.5" fill="#fff">EMAIL</text>
+<text x="250.0" y="14.5" fill="#000" text-anchor="middle">YOUR EMAIL</text>
+</g>
+</svg>
