@@ -91,7 +91,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://ghchart.rshah.org/00ff41/sudo-sanchit" alt="contribution graph" />
+<img width="95%" src="https://raw.githubusercontent.com/sudo-sanchit/sudo-sanchit/output/contrib-graph.svg" alt="contribution graph" />
 
 <img width="100%" src="https://raw.githubusercontent.com/sudo-sanchit/sudo-sanchit/output/github-snake.svg" alt="snake eating my contributions" />
 
